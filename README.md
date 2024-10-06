@@ -5,11 +5,3 @@
 
 
 
-
-Building some little projects
-
-- 👷🏼‍♂️ [TonLending](https://github.com/Dylanwooo/my-ton-lending)
-- 👷🏼‍♂️ [OP stack bridge](https://github.com/Dylanwooo/op-stack-bridge)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dylanwooo&show_icons=true&locale=en&theme=radical" alt="Dylanwooo" /></p>
