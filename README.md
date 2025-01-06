@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,redux,tailwind,nodejs,solidity,vercel,sentry,webpack" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,redux,tailwind,nodejs,solidity,vercel,supabase,cloudflare,sentry,webpack" width={100}/><br>
 </div>
 
 <br/>
