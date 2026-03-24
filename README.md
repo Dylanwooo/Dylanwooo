@@ -11,11 +11,7 @@
  
  🔭 I’m currently **building my ideas and trying to be an 100x dev**
  
- 🌱 I’m currently building a **full-stack project** (not Open-source)
-
-💬 Using **Javascript, Typescript, React, NodeJS...**
-
-⚡ Fun fact: **I have 2 full-time employees: Claude.ai and Cursor**
+💬 AI agent manager
 
  </div>
  
@@ -34,7 +30,7 @@
 <br/>
 <div align="center">
     
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,redux,tailwind,nodejs,solidity,vercel,supabase,cloudflare,sentry,webpack" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,redux,tailwind,nodejs,solidity,vercel,supabase,cloudflare,sentry,webpack,go" width={100}/><br>
 </div>
 
 <br/>
